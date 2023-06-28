@@ -1,0 +1,12 @@
+Important Topics
+ - Event loop
+ - Async Patterns
+ - Eevents Emitter
+ - Streams
+
+Event Loops 
+- To perform non-blocking I/O operations 
+- despite the fact that JS is single-threaded  
+- by offloading operations to the system kernel whenever possible.
+
+Web API's will perform these tasks.
